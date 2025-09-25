@@ -73,15 +73,6 @@ The analysis was performed in **Python (Pandas, Seaborn, Matplotlib)** with data
 
 ---
 
-## 📈 Example Visualizations
-- **Holiday vs Non-Holiday Sales (Discounted vs Non-Discounted)**  
-  ![holiday-sales](figures/holiday_sales.png)
-
-- **Discount % by Category**  
-  ![discounts-by-category](figures/discounts_by_category.png)
-
----
-
 ## 💡 Final Answer
 - **Should we continue discounts?**  
   - **No**: Discounts should not be the main lever for holiday sales (customers buy even at full price).  
